@@ -33,14 +33,14 @@ ge=en-US&:display_count=n&:origin=viz_share_link
 
 ## Insights
 
-Q- Which Room Type has the Maximum Number of Listing?
-Ans- Entire room/apt has the maximum number of listings which is 8,304.
-Q- Top 3 host names in terms of total Earnings
-Ans- Michael, 710 Beach Rentals, John
-Q- Find the region which has the Maximum Total Earnings?
-Ans- San Diego
-Q- Find out which room type has the maximum number of beds?
-Ans- Entire home/apt
+Q- Which Room Type has the Maximum Number of Listing?  
+Ans- Entire room/apt has the maximum number of listings which is 8,304.  
+Q- Top 3 host names in terms of total Earnings  
+Ans- Michael, 710 Beach Rentals, John  
+Q- Find the region which has the Maximum Total Earnings?  
+Ans- San Diego  
+Q- Find out which room type has the maximum number of beds?  
+Ans- Entire home/apt  
 
 
 
