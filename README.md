@@ -31,6 +31,18 @@ ge=en-US&:display_count=n&:origin=viz_share_link
 
 <img width="673" alt="image" src="https://github.com/Vaibhavmpandey/Stay-Catin-Tableau/assets/117555175/4eecdd43-7a5c-4d40-ba63-13fa4ce7eca0">
 
+## Insights
+
+Q- Which Room Type has the Maximum Number of Listing?
+Ans- Entire room/apt has the maximum number of listings which is 8,304.
+Q- Top 3 host names in terms of total Earnings
+Ans- Michael, 710 Beach Rentals, John
+Q- Find the region which has the Maximum Total Earnings?
+Ans- San Diego
+Q- Find out which room type has the maximum number of beds?
+Ans- Entire home/apt
+
+
 
 
 
