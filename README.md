@@ -16,3 +16,21 @@ questions:
 4. Relationship between price and reviews
 
 Create a storyboard with the insights also.
+
+
+## Result
+
+Here is the link for tableau Dashboard - https://public.tableau.com/views/StayCatinProject_16832105076880/StayCatinDataAnalysis?:langua
+ge=en-US&:display_count=n&:origin=viz_share_link
+
+<img width="668" alt="image" src="https://github.com/Vaibhavmpandey/Stay-Catin-Tableau/assets/117555175/c897c5c5-29ee-47ba-a313-44fbb9dc716b">
+
+<img width="550" alt="image" src="https://github.com/Vaibhavmpandey/Stay-Catin-Tableau/assets/117555175/3319df72-f667-4c04-ba86-64c18c97b842">
+
+<img width="547" alt="image" src="https://github.com/Vaibhavmpandey/Stay-Catin-Tableau/assets/117555175/14784360-6dd6-4b9f-9366-92bc407bd55a">
+
+<img width="673" alt="image" src="https://github.com/Vaibhavmpandey/Stay-Catin-Tableau/assets/117555175/4eecdd43-7a5c-4d40-ba63-13fa4ce7eca0">
+
+
+
+
